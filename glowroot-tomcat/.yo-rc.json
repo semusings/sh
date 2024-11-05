@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "authenticationType": "jwt",
+    "baseName": "glowroottomcat",
+    "buildTool": "maven",
+    "clientFramework": "react",
+    "devServerPort": 9060,
+    "enableTranslation": false,
+    "entities": ["Product", "ProductCategory", "CustomerDetails", "ShoppingCart", "ProductOrder"],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "MDZmYzMyYzlkYzc2ZmFjNWEwMTAyZGJlMDkyYmE3NGM5MjZkYzMwNzc5MjJkZDc1MGJjODhkNjU0NDEzNTlhOWQ0OGRhNGU0YjI0NmE3ODZjYjdjMWI2YzBkMGY3OWQzMzQzMjVhYmRlZDU1ZDQ2NDk2N2E0NzJmMjc4MjBlYmU=",
+    "languages": ["en", "nl"],
+    "lastLiquibaseTimestamp": 1730772351000,
+    "monorepository": true,
+    "nativeLanguage": "en",
+    "packageName": "dev.semusings.glowroot.tomcat",
+    "prodDatabaseType": "mysql",
+    "skipCommitHook": true
+  }
+}
