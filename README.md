@@ -1,2 +1,1 @@
-# sh
-Developer Utility Tool
+# Blog Codes
